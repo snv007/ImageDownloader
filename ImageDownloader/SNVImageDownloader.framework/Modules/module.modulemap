@@ -1,0 +1,10 @@
+framework module SNVImageDownloader {
+  umbrella header "SNVImageDownloader.h"
+
+  export *
+  module * { export * }
+}
+
+module SNVImageDownloader.Swift {
+    header "SNVImageDownloader-Swift.h"
+}
