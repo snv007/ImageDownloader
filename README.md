@@ -1,4 +1,6 @@
 # ImageDownloader
+Supports: iOS 8 to later
+Language : Swift 3
 ImageDownloader will helps you in download image urls and cached them for future purpose and also it has image downloader block which will helps to download image as UIImage
 
 Just Copy the SNVImageDownloader.framework to your project directory make sure you add it to the embedded binaries in the general tab
