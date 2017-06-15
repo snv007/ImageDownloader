@@ -1,5 +1,5 @@
 # ImageDownloader
-Note: This frameworks works only on Xcode 8.3.2 and with Swift 3
+Note: This frameworks works only on Xcode 8.3 or later and with Swift 3 or later
 Supports: iOS 8 to later
 IDE: Xcode 8.3.2 or later
 Language : Swift 3
