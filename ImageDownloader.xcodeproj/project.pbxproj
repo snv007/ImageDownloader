@@ -7,7 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B009D5761EF24AF9009C9A64 /* SNVImageDownloader.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B009D5751EF24AF9009C9A64 /* SNVImageDownloader.framework */; };
+		B009D57B1EF27CF4009C9A64 /* SNVImageDownloader.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B009D57A1EF27CF4009C9A64 /* SNVImageDownloader.framework */; };
+		B009D57C1EF27D17009C9A64 /* SNVImageDownloader.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B009D57A1EF27CF4009C9A64 /* SNVImageDownloader.framework */; };
+		B009D57D1EF27D17009C9A64 /* SNVImageDownloader.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = B009D57A1EF27CF4009C9A64 /* SNVImageDownloader.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		B0856A721EF00C0D0083DA48 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0856A711EF00C0D0083DA48 /* AppDelegate.swift */; };
 		B0856A741EF00C0D0083DA48 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0856A731EF00C0D0083DA48 /* ViewController.swift */; };
 		B0856A771EF00C0D0083DA48 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B0856A751EF00C0D0083DA48 /* Main.storyboard */; };
@@ -43,6 +45,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
+				B009D57D1EF27D17009C9A64 /* SNVImageDownloader.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -50,7 +53,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		B009D5751EF24AF9009C9A64 /* SNVImageDownloader.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SNVImageDownloader.framework; sourceTree = "<group>"; };
+		B009D57A1EF27CF4009C9A64 /* SNVImageDownloader.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SNVImageDownloader.framework; sourceTree = "<group>"; };
 		B0856A6E1EF00C0D0083DA48 /* ImageDownloader.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ImageDownloader.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0856A711EF00C0D0083DA48 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B0856A731EF00C0D0083DA48 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -73,7 +76,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B009D5761EF24AF9009C9A64 /* SNVImageDownloader.framework in Frameworks */,
+				B009D57B1EF27CF4009C9A64 /* SNVImageDownloader.framework in Frameworks */,
+				B009D57C1EF27D17009C9A64 /* SNVImageDownloader.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -97,7 +101,7 @@
 		B009D5771EF24AFE009C9A64 /* SNVImageDownloader */ = {
 			isa = PBXGroup;
 			children = (
-				B009D5751EF24AF9009C9A64 /* SNVImageDownloader.framework */,
+				B009D57A1EF27CF4009C9A64 /* SNVImageDownloader.framework */,
 			);
 			name = SNVImageDownloader;
 			sourceTree = "<group>";

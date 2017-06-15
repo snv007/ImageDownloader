@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		2waFLHlkkzkC+fvRnRSjGo1rPfk=
+		gz1rp5pJ8LtVNCDU604wMjoeQIw=
 		</data>
 		<key>Modules/SNVImageDownloader.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		Y1LzxsUvZMDP38s8DxboVPnomEs=
+		5eDH6A3qMETJxUW8qQXc731X2Ig=
 		</data>
 		<key>Modules/SNVImageDownloader.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		am6c5Be/g4RrCuzGzy/BtWLDNas=
+		swloVbH+GJXV5j2z6NEOWDL8ab4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -57,22 +57,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Y1LzxsUvZMDP38s8DxboVPnomEs=
+			5eDH6A3qMETJxUW8qQXc731X2Ig=
 			</data>
 			<key>hash2</key>
 			<data>
-			GZHg/pvCQl9c63uF2Pqs2P7p1xfeBYF3BZLVEGaqCGo=
+			0JtcLTt71Sa27+kzDGt2otnwfOi0AALP4Ka73RgTc3M=
 			</data>
 		</dict>
 		<key>Modules/SNVImageDownloader.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			am6c5Be/g4RrCuzGzy/BtWLDNas=
+			swloVbH+GJXV5j2z6NEOWDL8ab4=
 			</data>
 			<key>hash2</key>
 			<data>
-			NtMbBJpOKbMjKaQIsRJKIoxRueYHGzpKxOISvY20GQU=
+			uQ2zhgHhF2h5Rawphyf+r00OyxJLhuXZvfwXTzAukGs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
